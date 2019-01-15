@@ -1,0 +1,13 @@
+_build/
+cover/
+deps/
+doc/
+.fetch/
+assets/node_modules
+.git/
+.gitignore
+Dockerfile
+Makefile
+README*
+test/
+priv/static/
